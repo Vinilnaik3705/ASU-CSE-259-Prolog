@@ -1,3 +1,4 @@
+these are some relationships.
 % facts
 mother(ana).
 mother(casey).

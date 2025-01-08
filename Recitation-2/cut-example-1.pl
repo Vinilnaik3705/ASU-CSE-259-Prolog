@@ -1,3 +1,4 @@
+some info about the things.
 % facts
 red(apple).
 red(lexus).
